@@ -31,4 +31,4 @@ Aplikace pro rozpoznávání obličejů je nástroj, který umožňuje uživatel
 
 ## Licence
 
-Tato aplikace je poskytována "tak jak je" tj. bez záruky jakéhokoliv druhu. Autoři nejsou zodpovědní za škody vzniklé v důsledku použití této aplikace. 
+Tato aplikace je poskytována "tak jak je" tj. bez záruky jakéhokoliv druhu. Autor není zodpovědný za škody vzniklé v důsledku použití této aplikace. 
